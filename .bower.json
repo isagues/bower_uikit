@@ -22,7 +22,6 @@
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
     "test",
     "build"
   ],
