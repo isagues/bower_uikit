@@ -1,0 +1,24 @@
+{
+  "name": "uikit",
+  "description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces.",
+  "homepage": "https://github.com/uikit/uikit",
+  "version": "3.6.1",
+  "main": [
+     "dist/js/uikit.js",
+     "dist/js/uikit-icons.js",
+     "dist/css/uikit.css"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "css",
+    "modular"
+  ],
+  "authors": [
+    " YOOtheme GmbH <https://yootheme.com/>"
+  ],
+  "license": "MIT"
+}
