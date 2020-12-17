@@ -20,10 +20,5 @@
   "authors": [
     " YOOtheme GmbH <https://yootheme.com/>"
   ],
-  "license": "MIT",
-  "ignore": [
-    "test",
-    "build"
-  ],
-  "private": true
+  "license": "MIT"
 }
